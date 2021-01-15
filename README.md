@@ -39,4 +39,14 @@ Tabloların içerikleri aynıdır.
 ## Gii üzerinde Models ve Crud
 
 Tüm tablolar için modeller gii üzerinden oluşturulmuştur. </br>
-Tablolarda yapılması gereken işlemleri (create,update,delete) yapabilmemizi sağlayan modelleri Crud Generator ile oluşturduk. Sonucunda Controller ve views dosyaları oluşmuş oldu.
+Tablolarda yapılması gereken işlemleri (create,update,delete) yapabilmemizi sağlayan modelleri Crud Generator ile oluşturulmuştur. Sonucunda Controller ve views dosyaları oluşmuş oldu.
+
+Son olarak arayüzde yapılan silme işlemi için Controller üzerindeki delete fonksiyonunda gerekli değişiklikleri yaparak 2 tablo arasındaki gerekli bağlantıyı kurmuş oldum.
+
+# Arayüz Görselleri
+1.Tablo
+![image](https://user-images.githubusercontent.com/73715047/104780218-80572000-5791-11eb-82e1-07a85551f2f2.png)
+
+2.Tablo
+![image](https://user-images.githubusercontent.com/73715047/104780306-9fee4880-5791-11eb-8880-e75b2711ff56.png)
+
