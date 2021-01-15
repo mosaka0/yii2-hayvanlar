@@ -7,4 +7,4 @@ Hayvanat bahçesine alınan ve hayvanat bahçesinden bırakılan hayvanların bi
 # Kurulum
 ssh komutu ile vagrant makinesine bağlanın daha sonra gerekli dizine gidin.
 
-`composer require --pref-dist mosaka0/yii2-hayvanlar "dev-main"` komutuyla modülleri kurun.
+`composer require --prefer-dist mosaka0/yii2-hayvanlar "dev-main"` komutuyla modülleri kurun.
