@@ -2,7 +2,13 @@
 Hayvanat bahçesi hayvanlar hakkında bilgi modülü
 
 # İşlev
-Hayvanat bahçesine alınan ve hayvanat bahçesinden bırakılan hayvanların bilgilerinin tutulduğu bir modüldür.
+Hayvanat bahçesine alınan ve hayvanat bahçesinden bırakılan hayvanların bilgilerinin tutulduğu bir modüldür. </br>
+- Yeni bir hayvan özellikleri ile birlikte eklenebilir.
+- Eklenmiş hayvanın özellikleri güncellenebilir.
+- Hayvanlar tablodan silinebilir.
+- Silinen hayvanlar tamamiyle yok olmaz 2. tablo olan silinen hayvanların bulunduğu tabloya gönderilir. Bu şekilde 2 tablo arasında bir bağlantı bulunur.
+- Tabloda bulunan hayvanlar aranarak kolaylıkla bilgilerine ulaşılabilir.
+
 
 # Kurulum
 1-ssh komutu ile vagrant makinesine bağlanın daha sonra gerekli dizine gidin.
