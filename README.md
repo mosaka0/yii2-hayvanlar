@@ -30,6 +30,8 @@ değişikliğini yapın.
 3-Proje diziniz içindeyken 
 `php yii migrate/up --migrationPath=@vendor/mosaka0/yii2-hayvanlar/src/migrations` komutunu çalıştırarak migration işlemlerinizi tamamlayın.
 
+Modüle http://advanced/backend/web/index.php?r=hayvanlar/hayvanlar/index 'den erişebilirsiniz.
+
 # Modül Hakkında
 
 ## Migrations
